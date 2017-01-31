@@ -1552,7 +1552,7 @@ pre .javascript .function {
   font-variant: normal;
   font-stretch: normal;
   font-size: 18px;
-  font-family: "Sans Serif";
+  font-family: Sans Serif;
   background: #f44336;
 }
 #rewardButton span:hover {
@@ -1791,7 +1791,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #13ff4f;
+  background: #bb6b8b;
 }
 .links-of-blogroll {
   font-size: 13px;
